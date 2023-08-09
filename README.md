@@ -10,9 +10,11 @@ The algorithm was given a few thousand pictures of common poisonous plants in or
 
 ## Running this project
 
-1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
+1. Make sure you have Visual Studio Code installed
+2. Open VS Code and click the bottom-left icon in the corner
+3. Select Connect to Host and add a new SSH host
+4. Type ssh nvidia@(insert I.P adress). The I.P adress is the one for your Jetson Nano
+
 [View a video explanation here](video link)
-readme.md
-Displaying readme.md.
