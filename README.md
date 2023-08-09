@@ -14,21 +14,21 @@ The algorithm was given a few thousand pictures of common poisonous plants in or
 2. Enter its username an password
 3. Run the command, sudo apt-get install git cmake
 4. Run these commands in the listed order:
-  -git clone --recursive https://github.com/dusty-nv/jetson-inference
-  -cd jetson-inference
-  -git submodule update --init
+-git clone --recursive https://github.com/dusty-nv/jetson-inference
+-cd jetson-inference
+-git submodule update --init
 5. Run the command, sudo apt-get install libpython3-dev python3-numpy
 6. Run the command, cd jetson-inference
 7. Run the command, mkdir build
 8. Run these commands in the listed order:
-  -cd build
-  -cmake ../
+-cd build
+-cmake ../
 9. Make no selections and press OK
 10. Unselect and Pytorch installations and press OK
 11. Run these commands in the listed order:
-  -make
-  -sudo make install
-  -sudo ldconfig
+-make
+-sudo make install
+-sudo ldconfig
 c
 ## Preparing VS Code
 
