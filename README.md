@@ -1,12 +1,12 @@
-# Project Name
+# Poisonous Plant Identifier
 
- Add short description of project here > 
+ Identifies common poisonous plants in the given input.
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The algorithm was fed a few thousand picture of common poisonous plants in order to attemp to identify them. 80% of the pictures have been used to train the network while the rest is used to test and evaluate the training pictures. It can only identify three plants, specifically the Atlantic Poison Oak, Eastern Poison Ivy and the Poison Sumac. This algorithm runs on a 4 GB Jetson Nano with the a pre-trained model that was modified to identify these plants.
 
 ## Running this project
 
