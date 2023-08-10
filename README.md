@@ -93,4 +93,4 @@ The algorithm was given a few thousand pictures of common poisonous plants in or
 5. Run the command, imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/(plant folder name)/XXX.jpg OOO.jpg. Replace the plant folder name with one of the plants you have pictures for. Replace the XXX with a number in that folder. Replace OOO with anything
 6. You should see the model start to work
 
-[View a video explanation here](video link)
+[Video description on training and running](https://www.youtube.com/watch?v=4LLaYvZmRSc)
