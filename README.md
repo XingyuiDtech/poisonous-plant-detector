@@ -2,7 +2,7 @@
 
  Identifies common poisonous plants in the given input.
 
-![Model's attempt at identification](plaoiyut.jpg)
+/home/nvidia/jetson-inference/python/training/classification/true767.jpg
 
 ## The Algorithm
 
