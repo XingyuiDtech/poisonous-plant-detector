@@ -2,7 +2,7 @@
 
  Identifies common poisonous plants in the given input.
 
-![add image descrition here](direct image link here)
+![add image descrition here](plaoiyut.jpg)
 
 ## The Algorithm
 
