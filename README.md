@@ -45,6 +45,8 @@ c
 9. When prompted, enter the password of your Jetson Nano
 10. Open the jetson-inference folder and click Yes, I trust the authors
 c
-## Running this project
+## Training the Model
+
+1. Download this [database](https://www.kaggle.com/datasets/sandramai/poisonous-plants)
 
 [View a video explanation here](video link)
