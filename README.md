@@ -48,5 +48,21 @@ c
 ## Training the Model
 
 1. Download this [database](https://www.kaggle.com/datasets/sandramai/poisonous-plants)
+2. Extract the files
+3. Delete the Not folder
+4. Create a new folder and go in it
+5. Create folders named train, test and val
+6. In each of those folders, create these folders
+- atlantic_poison_oak
+- eastern_poison_ivy
+- poison_sumac
+8. In the folder containing the train, test and val folders, create a file named labels.txt
+9. Write these words in the text file in the given order
+- atlantic poison oak
+- eastern poison ivy
+- poison sumac
+10. Find the folder containing the pictures
+11.
+
 
 [View a video explanation here](video link)
